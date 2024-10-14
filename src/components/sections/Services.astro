@@ -9,7 +9,6 @@ import { services } from "../../utils/data.ts";
 type ServicesProps = {
     title: string;
     description: string;
-    icon: string
 };
 
 
@@ -28,7 +27,7 @@ type ServicesProps = {
             {
                     services.map((service: ServicesProps) => {
                     return (
-                            <Service title={service.title} description={service.description} icon={service.icon}>
+                            <Service title={service.title} description={service.description}>
                             </Service>
                             );
                     })
