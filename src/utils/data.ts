@@ -31,7 +31,7 @@ const services = [
     },
     {
         title: "Facetas em Resina",
-        description:"Se você está procurando uma maneira de dar um up no seu sorriso, as facetas em resina podem ser a solução perfeita! Essas finas camadas de resina são aplicadas diretamente sobre os dentes para corrigir manchas, desgastes e pequenos desalinhamentos. O melhor de tudo? O resultado é instantâneo!",
+        description:"Se você está procurando uma maneira de dar um up no seu sorriso, as facetas em resina podem ser a solução perfeita! Essas finas camadas de resina são aplicadas diretamente sobre os dentes para corrigir manchas, desgastes e pequenos desalinhamentos. O melhor de tudo? O resultado é instantâneo!, lembrando que as facetas que nós cuidamos, não degasta os dentes!!",
     }
 ];
 
