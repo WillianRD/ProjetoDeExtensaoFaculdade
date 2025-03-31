@@ -11,6 +11,7 @@ Este projeto de extensão acadêmica resultou na criação de um site funcional 
 - **Contatos e Localização** Contato, endereço da clínica e mapa interativo para facilitar a localização.
 
 ## Tecnologias Utilizadas
+---
 - **Front-end**:HTML, CSS
 - **Framework**: Astro
 - **Hospedagem**: Vercel
@@ -23,7 +24,3 @@ Este projeto de extensão acadêmica resultou na criação de um site funcional 
 
 ## Link de Acesso
 O site pode ser acessado [aqui](https://site-para-clinica-odontol-gica.vercel.app/).
-
-## Licença
-
----
